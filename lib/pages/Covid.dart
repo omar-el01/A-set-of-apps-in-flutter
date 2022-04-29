@@ -112,7 +112,7 @@ class _CovidState extends State<Covid> {
                                           getFlag(covidController.text),
                                         fit: BoxFit.cover),
                                     ),
-                                    SizedBox(width: 1000,
+                                    SizedBox(width: 800,
                                       height: 500,
                                       child:ListView(
                                         scrollDirection: Axis.vertical,
